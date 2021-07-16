@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: #B7C0E1;
+    padding: 0;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header.a {
+    max-width: 100px;
+}
+
+.header .logo {
+    max-width: 200px;
+    padding: 0;
+}
+
+.header .title {
+    padding-left: 10px;
+}
+
+.header .title i {
+    padding-right: 5px;
+}
